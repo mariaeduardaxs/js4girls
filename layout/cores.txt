@@ -1,0 +1,10 @@
+
+
+// CORES
+
+branco - #fff
+preto - #0000
+verde - #54a497
+rosa - #c02e5b
+cinza escuro - #808080
+cinza escuro 2 - #666

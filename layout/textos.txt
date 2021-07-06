@@ -1,0 +1,35 @@
+	TEXTO HEADER(menu):
+	
+	HOME 
+	ABOUT US
+	CONTACT
+	GALLERY
+	
+	
+	TEXTO SEGUNDA PARTE:
+	
+	Aliquam at Cursus
+	
+	Aenean vestibulum mi ut tempus eleifend... Lacus libero interdum velit 
+	
+	ABOUT US
+	
+	TEXTO TERCEIRA PARTE:
+	
+Aliquam at cursus ante, sit amet rhoncus nibh. Mauris lacinia venenatis libero sed ultrices. In blandit, arcu malesuada dignissim tempus, elit metus rhoncus urna, at faucibus arcu libero id augue. Pellentesque fringilla nulla quis quam finibus ornare. Proin vel facilisis erat. Aenean vestibulum, mi ut tempus eleifend.
+
+TEXTO QUARTA PARTE:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit raesent rutrum tempus diam. 
+
+Euismod consequat arcu sagittis non. Quisque egestas elit vitae velit ornare, non semper lectus ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas ultrices faucibus porta. Fusce suscipit eros nec ipsum volutpat tempor. Nunc tincidunt eu sapien vel malesuada.
+
+TEXTO QUINTA PARTE (formulário):
+Contact Us 
+Nome: 
+E-mail: 
+Telefone: 
+SEND EMAIL
+
+ULTIMA PARTE (footer):
+Copyright - JS4Girls Floripa - Agosto 2019
